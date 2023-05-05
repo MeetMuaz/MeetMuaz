@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 full stack web developer
-------------------------
+----------------------- 
 
-i 👋 everyone I am a passionate web developer who likes to code. I enjoy using both Backend and Frontend technologies
+I am a Full-stack Developer with a passion for innovation and technology with a strong foundation in frontend and backend technologies, I bring a unique combination of technical expertise and creative problem-solving to every project. As a quick learner, I am always eager to take in challenges and adapt to emerging technologies, with my dedication, hard work, and commitment to delivering quality results, I am confident that I will be a valuable asset to any team.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://https://meetmuaz.github.io/portfolio)
